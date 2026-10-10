@@ -1,0 +1,6 @@
+.DS_Store
+*.app/
+*.mp4
+*.mov
+/winter
+/mcwinter
